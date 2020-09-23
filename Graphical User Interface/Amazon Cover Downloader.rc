@@ -1,0 +1,5 @@
+#define RT_MANIFEST 24
+#define CREATEPROCESS_MANIFEST_RESOURCE_ID 1
+
+ACD   ICON   MOVEABLE   PRELOAD   "Amazon Cover Downloader.ico"
+CREATEPROCESS_MANIFEST_RESOURCE_ID   RT_MANIFEST   "Amazon Cover Downloader.exe.manifest"
