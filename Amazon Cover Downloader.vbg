@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=Core\Core.vbp
+StartupProject=Graphical User Interface\Graphical User Interface.vbp
